@@ -19,4 +19,5 @@ The prefix the bot is : ~
 | rainbow | | Send a rainbow message |
 | animesearch | as | Send a link to the anime you are looking for |
 | watchanime | | Send a link to the anime you want to watch |
-| youtube | yt | Sends a link with your youtube search
+| youtube | yt | Sends a link with your youtube search |
+| help | | Use the help command for example ~help ping | 
