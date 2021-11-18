@@ -5,6 +5,8 @@
 
 The prefix the bot is : ~
 
+[bot owner](https://twitch.tv/rsyf) 
+
 | Command  | Aliases | Description
 | --- | --- | --- |
 | ping | pang, peng, pong, pung,  pyng | pong! 🔔 |
