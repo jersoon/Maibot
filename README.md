@@ -8,9 +8,7 @@
 
 The prefix the bot is : ~
 
-[bot owner](https://twitch.tv/rsyf) 
 
-[Twitter](https://twitter.com/jersonfpp)
 
 
 | Command  | Aliases | Description
@@ -24,4 +22,8 @@ The prefix the bot is : ~
 | say | | This command can only be used by the owner |
 | pyramid | | Makes a pyramid with a maximum of 30 |
 | spam | | Spams with a maximum of 50 |
-| randomcat | rcat |  |
+| randomcat | rcat | send a random image of cats |
+| randomdog | rdog | send a random image of dogs |
+| randomduck | rduck | send a random image of ducks |
+| waifu | AYAYA | send a random image of a waifu |
+
