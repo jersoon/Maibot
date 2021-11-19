@@ -1,9 +1,10 @@
 # Maibot
 
-![image](https://user-images.githubusercontent.com/94239373/141654044-cad95f96-1953-42aa-8bf0-270efd632e47.png)   [bot owner](https://twitch.tv/rsyf) 
+![image](https://user-images.githubusercontent.com/94239373/141654044-cad95f96-1953-42aa-8bf0-270efd632e47.png)   
+
+[bot owner](https://twitch.tv/rsyf) 
 
 [Twitter](https://twitter.com/jersonfpp)
-
 
 The prefix the bot is : ~
 
@@ -23,4 +24,4 @@ The prefix the bot is : ~
 | say | | This command can only be used by the owner |
 | pyramid | | Makes a pyramid with a maximum of 30 |
 | spam | | Spams with a maximum of 50 |
- 
+| randomcat | rcat |  |
