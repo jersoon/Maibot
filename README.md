@@ -25,5 +25,6 @@ The prefix the bot is : ~
 | randomcat | rcat | send a random image of cats |
 | randomdog | rdog | send a random image of dogs |
 | randomduck | rduck | send a random image of ducks |
-| waifu | AYAYA | send a random image of a waifu |
+| rwaifu | waifu | send a random image of a waifu |
+| neko | | send a random image of nekos |
 
