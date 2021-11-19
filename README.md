@@ -16,9 +16,9 @@ The prefix the bot is : ~
 | ping | pang, peng, pong, pung,  pyng | pong! 🔔 |
 | commands | comandos | Sends the list of commands |
 | google | | Sends a link with your google search |
-| randomhex | randomcolor, rc, rh | Random hexadecimal color |
+| randomhex | randomcolor, rc, rh | Random hexadecimal color |               ![asd](https://cdn.7tv.app/emote/60c09e4e6aa44af922881cc8/3x)          
 | whispers | w | Send a link to your whispers |
-| echo | | This command can only be used by the owner |
+| echo | | This command can only be used by the owner |                              
 | say | | This command can only be used by the owner |
 | pyramid | | Makes a pyramid with a maximum of 30 |
 | spam | | Spams with a maximum of 50 |
