@@ -6,7 +6,9 @@
 The prefix the bot is : ~
 
 [bot owner](https://twitch.tv/rsyf) 
+
 [Twitter](https://twitter.com/jersonfpp)
+
 
 | Command  | Aliases | Description
 | --- | --- | --- |
