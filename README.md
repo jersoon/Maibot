@@ -12,9 +12,11 @@ The prefix the bot is : ~
 
 
 
-| Command  | Aliases | Description
+| Command  | Aliases | Description |
 | --- | --- | --- |
-| ping | pang, peng, pong, pung,  pyng | pong! 🔔 |
+           ---   ---   ---   ---    ---
+| ping | | pang, | peng, | pong, | pung, | pyng | | pong! 🔔 |
+
 | commands | comandos | Sends the list of commands |
 | google | | Sends a link with your google search |
 | randomhex | randomcolor, rc, rh | Random hexadecimal color |               
